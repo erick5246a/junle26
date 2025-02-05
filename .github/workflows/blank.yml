@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的簡易網頁</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>歡迎來到我的簡易網頁</h1>
+</header>
+
+<main>
+    <h2>這是主題標題</h2>
+    <p>這是一段簡單的描述文字，這裡可以放你想要展示的內容。你可以加入圖片、連結或其他內容。</p>
+
+    <p>例如，這是一張圖片：</p>
+    <img src="https://via.placeholder.com/400" alt="示例圖片">
+
+    <p>想要了解更多資訊，可以訪問 <a href="https://www.example.com" target="_blank">這個網站</a>。</p>
+</main>
+
+<footer>
+    <p>© 2025 我的網站. 版權所有。</p>
+</footer>
+
+</body>
+</html>
