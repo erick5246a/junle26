@@ -6,7 +6,7 @@
     <title>簡易計算器</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family:Arial, sans-serif;
             background-color: #f4f4f9;
             display: flex;
             justify-content: center;
